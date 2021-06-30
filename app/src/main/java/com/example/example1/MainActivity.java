@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("branch1 team2");
 
         System.out.println("branch1 from team1");
+        System.out.println("line 2 in branch1 from team1");
 
-        System.out.println("branch1 from team3");
 
         System.out.println("line 2 in team2");
 
